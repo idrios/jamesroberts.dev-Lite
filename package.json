@@ -1,0 +1,14 @@
+{
+  "name": "idrios.github.io-lite",
+  "version": "1.0.0",
+  "description": "JamesRoberts.dev version with focus on lightweight pages",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "JamesRoberts.dev"
+  ],
+  "author": "idrios",
+  "license": "MIT"
+}
